@@ -1,0 +1,9 @@
+img.avatar {
+  width: 300px;
+}
+
+.social a {
+  color: gray;
+  font-size: 2rem;
+  margin-left: .5rem;
+}
