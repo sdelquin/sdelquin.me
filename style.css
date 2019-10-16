@@ -12,11 +12,15 @@ i:hover, .panel-block:hover i {
   color: rgb(61, 61, 61);
 }
 
-.bio .panel-block {
+.panel-block {
   font-size: 0.8rem;
   text-align: left;
 }
 
-p.panel-heading {
+.bio p.panel-heading {
   background-color: rgba(250, 221, 195, 0.5);
+}
+
+.projects p.panel-heading {
+  background-color: rgba(121, 90, 75, 0.5);
 }
