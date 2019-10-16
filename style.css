@@ -24,3 +24,11 @@ i:hover, .panel-block:hover i {
 .projects p.panel-heading {
   background-color: rgba(111, 67, 35, 0.5);
 }
+
+.location {
+  margin-top: 2rem;
+}
+
+a.link {
+  color: rgba(111, 67, 35);
+}
