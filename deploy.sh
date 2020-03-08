@@ -1,2 +1,2 @@
 #!/bin/bash
-git push; ssh cloud 'cd ~/sdelquin.me; git pull'
+git push; ssh cloud 'cd ~/code/sdelquin.me; git pull'
