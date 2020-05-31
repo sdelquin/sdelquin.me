@@ -1,7 +1,13 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="@/assets/avatar.png" />
-    <SocialNetworks name="Sergio Delgado Quintero" />
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-half has-text-centered">
+        <img alt="Avatar" src="@/assets/avatar.png" />
+        <h1 class="title">Sergio Delgado Quintero</h1>
+        <h2 class="subtitle">Always learning!</h2>
+      </div>
+    </div>
+    <SocialNetworks />
   </div>
 </template>
 

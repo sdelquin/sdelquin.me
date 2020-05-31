@@ -1,7 +1,5 @@
 <template>
   <div class="hello">
-    <h1 class="title">{{ name }}</h1>
-    <p class="subtitle">Always learning!</p>
     <p>
       For a guide and recipes on how to configure / customize this project,<br />
       check out the
