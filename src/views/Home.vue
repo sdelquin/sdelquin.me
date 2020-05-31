@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="@/assets/avatar.png" />
-    <SocialNetworks msg="Sergio Delgado Quintero" />
+    <SocialNetworks name="Sergio Delgado Quintero" />
   </div>
 </template>
 
@@ -18,6 +18,6 @@ export default {
 
 <style lang="scss" scoped>
 img {
-  width: 160px;
+  width: 200px;
 }
 </style>
