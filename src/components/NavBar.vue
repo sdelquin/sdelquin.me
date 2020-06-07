@@ -17,12 +17,12 @@
           <span>Home</span>
         </router-link>
       </router-link>
-      <router-link tag="li" :to="{ name: 'Code' }">
-        <router-link :to="{ name: 'Code' }">
+      <router-link tag="li" :to="{ name: 'Projects' }">
+        <router-link :to="{ name: 'Projects' }">
           <span class="icon is-small">
-            <i class="fas fa-code" aria-hidden="true"></i>
+            <i class="fas fa-umbrella" aria-hidden="true"></i>
           </span>
-          <span>Code</span>
+          <span>Projects</span>
         </router-link>
       </router-link>
     </ul>
