@@ -12,7 +12,11 @@ export default {
 </script>
 
 <style scoped lang="scss">
-i {
-  color: darkorange;
+.project {
+  font-size: 0.9rem;
+  text-align: left;
+  i {
+    color: darkorange;
+  }
 }
 </style>
