@@ -4,7 +4,9 @@
     <div class="container">
       <div class="columns is-centered">
         <div class="column is-half has-text-centered">
-          <router-view />
+          <transition name="fade" mode="out-in">
+            <router-view />
+          </transition>
         </div>
       </div>
     </div>
@@ -24,4 +26,18 @@ export default {
 <style lang="scss">
 @import '~bulma/css/bulma.min.css';
 @import '~@fortawesome/fontawesome-free/css/all.min.css';
+
+/*** TRANTISIONS ***/
+.fade-enter {
+  opacity: 0;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.5s ease-out;
+}
+
+.fade-leave-to {
+  opacity: 0;
+}
 </style>
