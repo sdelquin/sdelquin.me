@@ -56,6 +56,8 @@ import BioSep from '@/components/BioSep.vue'
 import BioPar from '@/components/BioPar.vue'
 import { annotate, annotationGroup } from 'rough-notation'
 
+const PAGE_TITLE = 'Bio'
+
 export default {
   name: 'Bio',
   components: {
@@ -72,7 +74,11 @@ export default {
     ag.show()
   },
   metaInfo: {
-    title: 'Bio',
+    title: PAGE_TITLE,
+    meta: [
+      { property: 'og:title', content: PAGE_TITLE },
+      { property: 'og:description', content: 'A brief summary of my life' },
+    ],
   },
 }
 </script>

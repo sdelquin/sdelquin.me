@@ -19,6 +19,8 @@
 <script>
 import Project from '@/components/Project.vue'
 
+const PAGE_TITLE = 'Projects'
+
 export default {
   name: 'Bio',
   components: {
@@ -61,7 +63,11 @@ export default {
     }
   },
   metaInfo: {
-    title: 'Projects',
+    title: PAGE_TITLE,
+    meta: [
+      { property: 'og:title', content: PAGE_TITLE },
+      { property: 'og:description', content: 'Stuff which I spend time on' },
+    ],
   },
 }
 </script>

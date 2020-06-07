@@ -12,6 +12,8 @@
 import SocialNetworks from '@/components/SocialNetworks.vue'
 import Location from '@/components/Location.vue'
 
+const PAGE_TITLE = 'Hi'
+
 export default {
   name: 'Home',
   components: {
@@ -19,7 +21,11 @@ export default {
     Location,
   },
   metaInfo: {
-    title: 'Home',
+    title: PAGE_TITLE,
+    meta: [
+      { property: 'og:title', content: PAGE_TITLE },
+      { property: 'og:description', content: 'Contact' },
+    ],
   },
 }
 </script>

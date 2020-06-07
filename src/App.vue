@@ -18,13 +18,22 @@
 <script>
 import NavBar from '@/components/NavBar.vue'
 
+const PAGE_TITLE = 'About me'
+const SITE_NAME = 'Sergio Delgado Quintero'
+
 export default {
   components: {
     NavBar,
   },
   metaInfo: {
-    title: 'Hi',
-    titleTemplate: '%s | Sergio Delgado Quintero',
+    title: PAGE_TITLE,
+    titleTemplate: `%s | ${SITE_NAME}`,
+    meta: [
+      { property: 'og:title', content: PAGE_TITLE },
+      { property: 'og:site_name', content: SITE_NAME },
+      { property: 'og:description', content: 'This is a page about me!' },
+      { property: 'og:image', content: '@/assets/avatar.png' },
+    ],
   },
 }
 </script>
