@@ -1,10 +1,13 @@
-import Vue from 'vue'
-import VueRouter from 'vue-router'
 import Home from '@/views/Home.vue'
 import Bio from '@/views/Bio.vue'
 import Projects from '@/views/Projects.vue'
 
+import Vue from 'vue'
+import VueRouter from 'vue-router'
+import Meta from 'vue-meta'
+
 Vue.use(VueRouter)
+Vue.use(Meta)
 
 const routes = [
   {

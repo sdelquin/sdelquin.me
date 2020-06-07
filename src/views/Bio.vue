@@ -71,6 +71,9 @@ export default {
     const ag = annotationGroup(itemsToHighlight)
     ag.show()
   },
+  metaInfo: {
+    title: 'Bio',
+  },
 }
 </script>
 

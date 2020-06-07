@@ -22,6 +22,10 @@ export default {
   components: {
     NavBar,
   },
+  metaInfo: {
+    title: 'Hi',
+    titleTemplate: '%s | Sergio Delgado Quintero',
+  },
 }
 </script>
 

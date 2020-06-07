@@ -18,6 +18,9 @@ export default {
     SocialNetworks,
     Location,
   },
+  metaInfo: {
+    title: 'Home',
+  },
 }
 </script>
 
