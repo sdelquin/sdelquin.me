@@ -64,10 +64,6 @@ export default {
   },
   metaInfo: {
     title: PAGE_TITLE,
-    meta: [
-      { property: 'og:title', content: PAGE_TITLE },
-      { property: 'og:description', content: 'Stuff which I spend time on' },
-    ],
   },
 }
 </script>

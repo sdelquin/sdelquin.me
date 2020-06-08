@@ -28,10 +28,6 @@ export default {
   metaInfo: {
     title: PAGE_TITLE,
     titleTemplate: `%s | ${SITE_NAME}`,
-    meta: [
-      { property: 'og:site_name', content: SITE_NAME },
-      { property: 'og:image', content: '@/assets/avatar.png' },
-    ],
   },
 }
 </script>

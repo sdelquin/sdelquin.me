@@ -80,10 +80,6 @@ export default {
   },
   metaInfo: {
     title: PAGE_TITLE,
-    meta: [
-      { property: 'og:title', content: PAGE_TITLE },
-      { property: 'og:description', content: 'A brief summary of my life' },
-    ],
   },
 }
 </script>
