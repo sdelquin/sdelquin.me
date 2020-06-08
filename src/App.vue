@@ -29,9 +29,7 @@ export default {
     title: PAGE_TITLE,
     titleTemplate: `%s | ${SITE_NAME}`,
     meta: [
-      { property: 'og:title', content: PAGE_TITLE },
       { property: 'og:site_name', content: SITE_NAME },
-      { property: 'og:description', content: 'This is a page about me!' },
       { property: 'og:image', content: '@/assets/avatar.png' },
     ],
   },
