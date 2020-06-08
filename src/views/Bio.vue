@@ -51,7 +51,7 @@
       <div class="hl">create something new from scratch</div>
       . I really love it. Fortunately I have been able to learn different programming languages, but
       life changes when Python appeared on the scene. Wherever you are, thanks adsaman for being my
-      mentor. I am cofounder of
+      mentor. I am cofounder of <a href="https://pythoncanarias.es">Python Canarias</a>.
     </BioPar>
   </div>
 </template>
