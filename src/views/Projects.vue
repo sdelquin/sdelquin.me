@@ -59,6 +59,11 @@ export default {
           title: 'Utilities for Crystallographic Information Files',
           url: 'https://cifutils.sdelquin.me',
         },
+        {
+          icon: 'fab fa-telegram',
+          title: 'Telegram Bot to dispatch news about Consejería de Educación',
+          url: 'https://t.me/educannews',
+        },
       ],
     }
   },
