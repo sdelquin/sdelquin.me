@@ -64,6 +64,11 @@ export default {
           title: 'Telegram Bot to dispatch news about Consejería de Educación',
           url: 'https://t.me/educannews',
         },
+        {
+          icon: 'fab fa-chrome',
+          title: 'Chrome Extension to check Amazon shipment availabitly',
+          url: 'https://github.com/sdelquin/sendhereplz',
+        },
       ],
     }
   },
