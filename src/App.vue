@@ -12,11 +12,13 @@
         </div>
       </div>
     </section>
+    <BuyMeACoffee />
   </div>
 </template>
 
 <script>
 import NavBar from '@/components/NavBar.vue'
+import BuyMeACoffee from '@/components/BuyMeACoffee.vue'
 
 const PAGE_TITLE = 'About me'
 const SITE_NAME = 'Sergio Delgado Quintero'
@@ -24,6 +26,7 @@ const SITE_NAME = 'Sergio Delgado Quintero'
 export default {
   components: {
     NavBar,
+    BuyMeACoffee,
   },
   metaInfo: {
     title: PAGE_TITLE,
