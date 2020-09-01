@@ -53,6 +53,17 @@
       life changes when Python appeared on the scene. Wherever you are, thanks adsaman for being my
       mentor. I am cofounder of <a href="https://pythoncanarias.es">Python Canarias</a>.
     </BioPar>
+    <BioSep />
+    <BioPar leadingIcon="fa fa-magic">
+      When I finished my degree on Computer Science I started to collaborate with
+      <a href="http://www.gobiernodecanarias.org/istac/"
+        >Instituto Canario de Estadística (ISTAC)</a
+      >
+      developing a statistical software. It's curious that 15 years later I resumed this link again.
+      Nowadays I work at ISTAC doing
+      <div class="hl">automation in data processing</div>
+      .
+    </BioPar>
   </div>
 </template>
 
