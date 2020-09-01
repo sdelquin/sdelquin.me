@@ -66,7 +66,7 @@ export default {
         },
         {
           icon: 'fab fa-chrome',
-          title: 'Chrome Extension to check Amazon shipment availabitly',
+          title: 'Chrome Extension to check Amazon shipment availability',
           url: 'https://github.com/sdelquin/sendhereplz',
         },
       ],
