@@ -60,8 +60,8 @@
         >Instituto Canario de Estadística (ISTAC)</a
       >
       developing a statistical software. It's curious that 15 years later I resumed this link again.
-      Nowadays I work at ISTAC doing
-      <div class="hl">automation in data processing</div>
+      Nowadays I work at ISTAC as
+      <div class="hl">data engineer</div>
       .
     </BioPar>
   </div>
