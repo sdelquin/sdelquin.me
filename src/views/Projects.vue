@@ -65,9 +65,9 @@ export default {
           url: 'https://t.me/educannews',
         },
         {
-          icon: 'fab fa-chrome',
-          title: 'Chrome Extension to check Amazon shipment availability',
-          url: 'https://github.com/sdelquin/sendhereplz',
+          icon: 'fas fa-truck',
+          title: 'Quick identification of Amazon products with shipping restrictions',
+          url: 'https://sendhereplz.com',
         },
       ],
     }
