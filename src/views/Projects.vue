@@ -69,6 +69,11 @@ export default {
           title: 'Quick identification of Amazon products with shipping restrictions',
           url: 'https://sendhereplz.com',
         },
+        {
+          icon: 'fab fa-python',
+          title: 'Free online course to learn Python from scratch',
+          url: 'https://aprendepython.es',
+        },
       ],
     }
   },
