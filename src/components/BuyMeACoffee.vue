@@ -1,14 +1,16 @@
 <template>
-  <script
-    type="application/javascript"
-    data-name="BMC-Widget"
-    src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
-    data-id="sdelquin"
-    data-description="Support me on Buy me a coffee!"
-    data-message="Thank you for visiting. You can now buy me a coffee!"
-    data-color="#FF813F"
-    data-position=""
-    data-x_margin="18"
-    data-y_margin="18"
-  ></script>
+  <div class="buymeacoffee">
+    <a href="https://www.buymeacoffee.com/sdelquin" target="_blank"
+      ><img
+        src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png"
+        alt="Buy Me A Coffee"
+        style="height: 60px !important;width: 217px !important;"
+    /></a>
+  </div>
 </template>
+
+<style scoped lang="scss">
+.buymeacoffee {
+  margin-top: 5rem;
+}
+</style>

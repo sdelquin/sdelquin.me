@@ -13,11 +13,13 @@
       <i class="fas fa-angle-double-right"></i>
       And many more on my <a class="link" href="https://github.com/sdelquin">GitHub account</a>!!
     </p>
+    <BuyMeACoffee />
   </div>
 </template>
 
 <script>
 import Project from '@/components/Project.vue'
+import BuyMeACoffee from '@/components/BuyMeACoffee.vue'
 
 const PAGE_TITLE = 'Projects'
 
@@ -25,6 +27,7 @@ export default {
   name: 'Bio',
   components: {
     Project,
+    BuyMeACoffee,
   },
   data() {
     return {
