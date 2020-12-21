@@ -24,3 +24,19 @@ h6 {
 p {
   font-family: "Andika New Basic", sans-serif;
 }
+
+a.fn-item.active {
+  color: #3a2903;
+}
+
+a.fn-item:hover {
+  color: #8c650e;
+}
+
+.post-holder.odd {
+  background-color: #c38e17;
+}
+
+.post-holder.odd div.post-after {
+  border-top-color: #c38e17;
+}
