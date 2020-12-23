@@ -41,3 +41,8 @@ a:hover {
 .post-holder.odd div.post-after {
   border-top-color: #af8c3c;
 }
+
+.site-footer {
+  min-height: 25%;
+  padding-top: 10%;
+}
