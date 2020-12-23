@@ -4,8 +4,14 @@ weight: 4
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+{{<lni class="twitter">}} [Twitter](https://twitter.com/sdelquin)
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
+{{<lni class="github">}} [Github](https://github.com/sdelquin)
 
-Let us get in touch!
+{{<lni class="instagram">}} [Instagram](http://instagram.com/sdelquin)
+
+{{<lni class="telegram">}} [Telegram](https://t.me/sdelquin)
+
+{{<lni class="linkedin">}} [Linkedin](https://www.linkedin.com/in/sdelquin)
+
+{{<lni class="envelope">}} [Email](sdelquin@gmail.com)
