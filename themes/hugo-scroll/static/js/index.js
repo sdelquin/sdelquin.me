@@ -92,7 +92,7 @@ var $sitehead = $("#site-head");
 
           $(this).attr("item_index", t);
 
-          if (w >= f && w <= b) {
+          if (w >= Math.floor(f) && w <= Math.ceil(b)) {
             i.addClass("active");
             a.fadeOut("slow");
           } else {
