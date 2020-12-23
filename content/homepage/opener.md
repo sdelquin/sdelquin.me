@@ -3,8 +3,10 @@ title: "Welcome"
 weight: 1
 ---
 
-Hi there. This section will not show up in the header menu above. Other than that, there's really not much to see here. I did however append some generated »Lorem ipsum«-paragraphs for you. Enjoy!
+Hi there. Thanks for coming! {{<lni class="thumbs-up">}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. Phasellus urna nisi, volutpat pharetra orci vel, feugiat sollicitudin diam. Phasellus dolor tortor, feugiat a ipsum id, gravida volutpat urna. Nam dictum nulla ac nisi aliquam ultricies. Nam tempus eget lorem vitae vulputate.
+I'm Sergio. I live in Tenerife {{<lni class="pyramids">}}️ and currently I'm working as a **data engineer** {{<lni class="database">}} at the Canary Island Statistics Office {{<lni class="pointer">}}. I'm also quite involved with IT teaching {{<lni class="headphone-alt">}}.
 
-Nulla aliquet, nisl pulvinar fermentum ultricies, turpis purus ultricies lorem, ut faucibus arcu nisl in tellus. Integer eu augue auctor, fringilla nunc ut, finibus eros. Curabitur est lectus, ultricies id blandit at, malesuada et ipsum. Suspendisse potenti. Quisque euismod sapien arcu, vel sollicitudin ipsum dignissim nec.
+I like {{<lni class="juice">}} vegetables, spanish tortilla, chicken, billiards & dancing. I'm passionate for **Python** {{<lni class="code">}} programming language and really enjoy learning new stuff {{<lni class="rocket">}}.
+
+Keep reading!! {{<lni class="coffee-cup">}}
