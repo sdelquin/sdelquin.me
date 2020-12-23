@@ -7,17 +7,17 @@ a.site-menu:hover {
 }
 
 .blog-title,
-.post-title,
+.post-title {
+  font-family: "Fugaz One", cursive;
+}
+
+.blog-description,
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: "Fugaz One", cursive;
-}
-
-.blog-description {
   font-family: "Fjalla One", sans-serif;
 }
 
@@ -29,14 +29,15 @@ a.fn-item.active {
   color: #3a2903;
 }
 
-a.fn-item:hover {
+a.fn-item:hover,
+a:hover {
   color: #8c650e;
 }
 
 .post-holder.odd {
-  background-color: #c38e17;
+  background-color: #af8c3c;
 }
 
 .post-holder.odd div.post-after {
-  border-top-color: #c38e17;
+  border-top-color: #af8c3c;
 }
