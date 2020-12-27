@@ -1,5 +1,7 @@
 <footer class="site-footer">
   <div class="inner">
+    {{- partial "custom_footer.html" . -}}
+
     {{ with .Site.Params.copyright }}
       <section class="copyright">{{ . | markdownify }}</section>{{ end }}
 

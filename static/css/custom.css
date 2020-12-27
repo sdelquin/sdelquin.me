@@ -43,6 +43,10 @@ a:hover {
 }
 
 .site-footer {
-  min-height: 25%;
-  padding-top: 10%;
+  min-height: 24rem;
+  padding-top: 12rem;
+}
+
+.logo {
+  padding-bottom: 2rem;
 }
