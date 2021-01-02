@@ -11,7 +11,7 @@ jobs:
         with:
           hugo-version: latest
       - name: Build website
-        run: hugo --minify --gc
+        run: hugo --gc
       - name: Sync files with production server
         uses: burnett01/rsync-deployments@4.1
         with:
