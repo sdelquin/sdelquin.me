@@ -1,0 +1,56 @@
+#site-head {
+  background-color: white;
+}
+
+a.site-menu {
+  background-color: #8c650e;
+}
+
+a.site-menu:hover {
+  background-color: #c38e17;
+}
+
+.blog-title,
+.post-title {
+  font-family: "Fugaz One", cursive;
+}
+
+.blog-description,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Fjalla One", sans-serif;
+}
+
+p {
+  font-family: "Andika New Basic", sans-serif;
+}
+
+a.fn-item.active {
+  color: #3a2903;
+}
+
+a.fn-item:hover,
+a:hover {
+  color: #8c650e;
+}
+
+.post-holder.odd {
+  background-color: #af8c3c;
+}
+
+.post-holder.odd div.post-after {
+  border-top-color: #af8c3c;
+}
+
+.site-footer {
+  min-height: 22rem;
+  padding-top: 12rem;
+}
+
+.logo {
+  padding-bottom: 2rem;
+}
