@@ -8,6 +8,8 @@ header_menu: true
 
 {{<lni class="github">}} [Github](https://github.com/sdelquin)
 
+{{<lni class="twitch">}} [Twitch](https://twitch.tv/sdelquin)
+
 {{<lni class="instagram">}} [Instagram](http://instagram.com/sdelquin)
 
 {{<lni class="telegram">}} [Telegram](https://t.me/sdelquin)
