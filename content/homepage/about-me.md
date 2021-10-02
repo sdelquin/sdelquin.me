@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-![Sergio Delgado Quintero](images/me.jpg)
+![Sergio Delgado Quintero](images/avatar.jpg)
 
 {{<lni class="direction">}}I was born in [La Orotava (Tenerife)](https://www.laorotava.es/) back in 1979! I started loving **computing** quite young when I used to visit one of my father's friend. I remember he got a [Commodore Amiga](https://en.wikipedia.org/wiki/Amiga) and I spent hours fooling with the [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS) on [Windows 3.11](https://en.wikipedia.org/wiki/Windows_3.1x).
 

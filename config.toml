@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = "Sergio Delgado Quintero - Data engineer"
+title = "Sergio Delgado Quintero"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
@@ -26,7 +26,7 @@ title = "Sergio Delgado Quintero - Data engineer"
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and
     # https://gohugo.io/templates/internal#open-graph.
-    images = ["images/logo-sdelquin.png"]
+    images = ["images/avatar.jpg"]
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
