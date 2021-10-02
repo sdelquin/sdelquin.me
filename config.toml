@@ -17,7 +17,7 @@ title = "Sergio Delgado Quintero - Data engineer"
     copyright = "© Sergio Delgado Quintero"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Hi there 👋"
+    description = "Tenerife"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
@@ -26,12 +26,12 @@ title = "Sergio Delgado Quintero - Data engineer"
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and
     # https://gohugo.io/templates/internal#open-graph.
-    images = ["images/cover-image.jpg"]
+    images = ["images/logo-sdelquin.png"]
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Sergio Delgado Quintero - Hi there 👋"
+    title = "About me"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
