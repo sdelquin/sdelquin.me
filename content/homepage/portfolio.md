@@ -28,10 +28,10 @@ To easily access all of the educational news from the Canary Government, I decid
 
 As I said before, I'm a big fan of dancing. I created a [website with tons of salsa videos](https://susikiu.es/) from our dancing course.
 
-##### {{<lni class="codepen">}} 3D models
+##### {{<lni class="codepen">}} Artwork
 
-I like playing around with 3D modelling and sketching. Here you can find out [some of my designs](https://cad.sdelquin.me/).
+I like playing around with 3D modelling and sketching. Here you can find out [some of my designs](https://files.sdelquin.me/?3d).
 
-##### {{<lni class="camera">}} Memories
+Although most of the photos nowadays are stored in our mobile phones, I usually take some out and upload them to a gallery site. Here you can find [photo albums of my travels](https://files.sdelquin.me/?travel).
 
-Although most of the photos nowadays are stored in our mobile phones, I usually take some out and upload them to a gallery site. Here you can find [photo albums of my travels](https://pics.sdelquin.me/).
+Once in a while I used to create logos. Take an overview of [my designs](https://files.sdelquin.me/?logos).
