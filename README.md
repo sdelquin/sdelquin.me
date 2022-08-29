@@ -23,3 +23,7 @@ For **production**:
 ```console
 $ hugo
 ```
+
+## Theme
+
+Using [Hugo Scroll](https://github.com/janraasch/hugo-scroll) theme. See [icons](https://github.com/janraasch/hugo-scroll#using-icons) on how to add them.
