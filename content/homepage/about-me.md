@@ -18,4 +18,4 @@ header_menu: true
 
 {{<lni class="code-alt">}}Programming is a fascinating stuff for me. A set of great tech tools that lets you **create something new from scratch**. I really love it. Fortunately I have been able to learn different programming languages, but life changes when Python appeared on the scene. Wherever you are, thanks adsaman for being my mentor. I am cofounder of [Python Canarias](https://pythoncanarias.es/).
 
-{{<lni class="target">}} When I finished my degree on Computer Science I started to collaborate with [Instituto Canario de Estadística (ISTAC)](http://www.gobiernodecanarias.org/istac/) developing a statistical software. It's curious that 15 years later I resumed this link again. Nowadays I work at ISTAC as **data engineer**.
+{{<lni class="target">}} When I finished my degree on Computer Science I started to collaborate with [Instituto Canario de Estadística (ISTAC)](http://www.gobiernodecanarias.org/istac/) developing a statistical software. It's curious that 15 years later I could resume this link. From 2020 to 2022 I worked at ISTAC as a **data engineer**.
