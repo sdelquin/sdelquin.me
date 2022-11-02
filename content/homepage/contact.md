@@ -16,4 +16,6 @@ header_menu: true
 
 {{<lni class="linkedin">}} [Linkedin](https://www.linkedin.com/in/sdelquin)
 
+{{<lni class="youtube">}} [YouTube](https://www.youtube.com/@sdelquin)
+
 {{<lni class="envelope">}} [Email](sdelquin@gmail.com)
