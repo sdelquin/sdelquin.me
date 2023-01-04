@@ -18,4 +18,8 @@ header_menu: true
 
 {{<lni class="youtube">}} [YouTube](https://www.youtube.com/@sdelquin)
 
+{{<lni class="play">}} [TikTok](https://www.tiktok.com/@sdelquin)
+
 {{<lni class="envelope">}} [Email](sdelquin@gmail.com)
+
+{{<lni class="phone">}} (+34) 621 336 832
