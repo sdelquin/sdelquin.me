@@ -11,6 +11,7 @@ theme = "hugo-scroll"
 # The "title" of your website
 title = "Sergio Delgado Quintero"
 
+
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
@@ -36,6 +37,8 @@ title = "Sergio Delgado Quintero"
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
     # hidedesignbyline = true
+
+    custom_js = ["js/custom.js"]
 
     [params.meta]
         keywords = "cv, profile, data, engineer, teacher, it, python, programming, development, data-science, computing"
