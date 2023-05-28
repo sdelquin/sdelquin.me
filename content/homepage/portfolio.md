@@ -12,9 +12,9 @@ I've built a [free online course to learn the Python programming language](https
 
 ##### {{<lni class="amazon">}} Amazon
 
-I'm an active customer of Amazon. Deliveries to Canary Islands usually have some issues, though. On one hand, some goods can be charged with customs duty. On the other hand, some products are not eligible for shipment to our region.
+I'm an active customer of Amazon. Deliveries to Canary Islands usually have some issues, though. Main problem is that some products are not eligible for shipment to our region.
 
-For the first point I've built a kind of [calculator of delivery costs](https://ciap.sdelquin.me/). For the second problem we've developed a cross-browser extension for [quick identification of Amazon products with shipping restrictions](https://sendhereplz.com/).
+To that end we've developed a cross-browser extension for [quick identification of Amazon products with shipping restrictions](https://sendhereplz.com/).
 
 ##### {{<lni class="microscope">}} Science
 
