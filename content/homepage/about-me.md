@@ -14,7 +14,7 @@ header_menu: true
 
 {{<lni class="world">}}Languages have played an important role in my life (not only the programming ones). Maybe this affection comes from my mum. In an earlier stage I finished **English** B2 Level at [EOI El Mayorazgo](https://www.eoilaorotava.com/). After some years I choose to leap on **German** B2 Level at [EOI Puerto de la Cruz](https://www.eoipuertodelacruz.com/).
 
-{{<lni class="certificate">}}I can not understand my career without **teaching**. After overcoming my academic degree I decided to take the educational road. I could pass the official tests and got my position as teacher of higher IT studies at [IES Puerto de la Cruz - Telesforo Bravo](http://iespuertodelacruz.es/). Furthermore I had the chance to get involved in EOI as teacher of IT courses. I combine both teaching activities.
+{{<lni class="certificate">}}I can not understand my career without **teaching**. After overcoming my academic degree I decided to take the educational road. I could pass the official tests and got my position as teacher of higher IT studies at [IES Puerto de la Cruz - Telesforo Bravo](http://iespuertodelacruz.es/). Furthermore I had the chance to get involved in [EOI](https://www.eoi.es/) as teacher of IT courses. I actually combine both teaching activities.
 
 {{<lni class="code-alt">}}Programming is a fascinating stuff for me. A set of great tech tools that lets you **create something new from scratch**. I really love it. Fortunately I have been able to learn different programming languages, but life changes when Python appeared on the scene. Wherever you are, thanks adsaman for being my mentor. I am cofounder of [Python Canarias](https://pythoncanarias.es/).
 
