@@ -3,10 +3,10 @@ title: "Welcome"
 weight: 1
 ---
 
-Hi there. Thanks for coming! {{<lni class="thumbs-up">}}
+Hi there. Thanks for coming! {{<fa class="fa-regular fa-thumbs-up">}}
 
-I'm Sergio. I live in Tenerife {{<lni class="pyramids">}}️ and currently I'm working as a **data engineer** {{<lni class="database">}} at the Canary Island Statistics Office {{<lni class="pointer">}}. I'm also quite involved with IT teaching {{<lni class="headphone-alt">}}.
+I'm Sergio. I live in Tenerife {{<fa class="fa-solid fa-mountain-sun">}}️ and currently I'm working as an IT teacher at [IES Puerto de la Cruz](https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/) {{<fa class="fa-solid fa-microchip">}}.
 
-I like {{<lni class="juice">}} vegetables, spanish tortilla, chicken, billiards & dancing. I'm passionate for **Python** {{<lni class="code">}} programming language and really enjoy learning new stuff {{<lni class="rocket">}}.
+I like {{<fa class="fa-solid fa-carrot">}} vegetables, spanish tortilla, chicken, billiards & dancing. I'm passionate for **Python** {{<fa class="fa-brands fa-python">}} programming language and really enjoy learning new stuff {{<fa class="fa-solid fa-rocket">}}.
 
-Keep reading!! {{<lni class="coffee-cup">}}
+Keep reading!! {{<fa class="fa-solid fa-mug-saucer">}}

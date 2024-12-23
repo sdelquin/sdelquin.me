@@ -1,0 +1,2 @@
+runserver:
+    hugo server

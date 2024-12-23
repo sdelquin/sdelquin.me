@@ -4,22 +4,24 @@ weight: 4
 header_menu: true
 ---
 
-{{<lni class="twitter">}} [Twitter](https://twitter.com/sdelquin)
+{{<fa class="fa-brands fa-twitter">}} [Twitter](https://twitter.com/sdelquin)
 
-{{<lni class="github">}} [Github](https://github.com/sdelquin)
+{{<fa class="fa-brands fa-github">}} [Github](https://github.com/sdelquin)
 
-{{<lni class="twitch">}} [Twitch](https://twitch.tv/sdelquin)
+{{<fa class="fa-brands fa-twitch">}} [Twitch](https://twitch.tv/sdelquin)
 
-{{<lni class="instagram">}} [Instagram](http://instagram.com/sdelquin)
+{{<fa class="fa-brands fa-instagram">}} [Instagram](http://instagram.com/sdelquin)
 
-{{<lni class="telegram">}} [Telegram](https://t.me/sdelquin)
+{{<fa class="fa-brands fa-telegram">}} [Telegram](https://t.me/sdelquin)
 
-{{<lni class="linkedin">}} [Linkedin](https://www.linkedin.com/in/sdelquin)
+{{<fa class="fa-brands fa-linkedin">}} [Linkedin](https://www.linkedin.com/in/sdelquin)
 
-{{<lni class="youtube">}} [YouTube](https://www.youtube.com/@sdelquin)
+{{<fa class="fa-brands fa-youtube">}} [YouTube](https://www.youtube.com/@sdelquin)
 
-{{<lni class="play">}} [TikTok](https://www.tiktok.com/@sdelquin)
+{{<fa class="fa-brands fa-tiktok">}} [TikTok](https://www.tiktok.com/@sdelquin)
 
-{{<lni class="envelope">}} [Email](sdelquin@gmail.com)
+{{<fa class="fa-brands fa-bluesky">}} [Bluesky](https://bsky.app/profile/sdelquin.me)
 
-{{<lni class="phone">}} (+34) 621 336 832
+{{<fa class="fa-solid fa-inbox">}} [Email](sdelquin@gmail.com)
+
+{{<fa class="fa-solid fa-mobile-retro">}} (+34) 621 336 832
